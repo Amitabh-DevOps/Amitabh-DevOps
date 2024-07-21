@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amitabh-DevOps
+- 👋 Hi, I’m Amitabh Soni
 - 👀 I’m interested in Dev-Ops
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Development and Operation
