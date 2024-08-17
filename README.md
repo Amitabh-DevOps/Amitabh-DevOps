@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate **DevOps enthusiast** with a ke
   I'm excited to collaborate on projects that bring together **Development and Operations**. If you’re working on something that aligns with these areas, or if you have a project where my skills could be useful, feel free to reach out!
 
 - 📫 **How to Reach Me**:  
-  The best way to connect with me is through [LinkedIn](www.linkedin.com/in/amitabh-soni). I’m always open to networking, learning from others, and exploring new opportunities.
+  The best way to connect with me is through www.linkedin.com/in/amitabh-soni. I’m always open to networking, learning from others, and exploring new opportunities.
 
 - 😄 **Pronouns**:  
   You can call me **Amitabh**.
