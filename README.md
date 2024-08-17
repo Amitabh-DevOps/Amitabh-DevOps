@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps enthusiast** on a journe
 
 - 💞️ **Collaboration**: I'm open to collaborating on projects that involve **Development and Operations**. If you have an interesting project or idea, let's connect and make something awesome together!
 
-- 📫 **Reach Out to Me**: You can connect with me on [LinkedIn](https://www.linkedin.com/in/amitabh-soni-9a796b2a2). I'm always open to networking and discussing new opportunities!
+- 📫 **Reach Out to Me**: You can connect with me on [LinkedIn](www.linkedin.com/in/amitabh-soni). I'm always open to networking and discussing new opportunities!
 
 - 😄 **Pronouns**: I go by **Amitabh**.
 
