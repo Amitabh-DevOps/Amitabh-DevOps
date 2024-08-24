@@ -1,7 +1,3 @@
-Here’s an extended version of your GitHub README:
-
----
-
 # 👋 Hi, I’m Amitabh Soni
 
 Welcome to my GitHub profile! I’m a passionate **DevOps enthusiast** with a keen interest in exploring and mastering the intricacies of Development and Operations.
@@ -23,10 +19,6 @@ Welcome to my GitHub profile! I’m a passionate **DevOps enthusiast** with a ke
 
 - ⚡ **Fun Fact**:  
   I’m still on the lookout for that perfect fun fact, but the journey of learning and discovery is what excites me every day!
-
----
-
-This version gives a bit more insight into your interests and goals while still being approachable and friendly!
 
 
 <!---
