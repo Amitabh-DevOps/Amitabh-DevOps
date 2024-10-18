@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **DevOps Enthusiast** committed to masterin
 
 ## 🚀 About Me
 
-I am passionate about **DevOps**, aiming to explore the intricacies of automation, continuous integration, and deployment. My focus is on applying tools and technologies that optimize workflows, making the development process efficient and streamlined.
+As a DevOps enthusiast, I am focused on learning the DevOps culture and understanding its principles. I’m actively exploring automation, cloud services, and CI/CD pipelines to streamline workflows and enhance efficiency. My goal is to apply these skills to real-world projects while continuously expanding my expertise in the ever-evolving DevOps field.
 
 - 🌱 **Currently Learning**: Cloud platforms, containerization, CI/CD pipelines, and infrastructure as code.
 - 🤝 **Looking for Collaboration**: I'm always excited to contribute to projects that integrate **Development** and **Operations**. If you're working on something in this space, feel free to reach out!
@@ -44,6 +44,8 @@ Check out more in my repositories!
 
 ## 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge)](https://amitabh.engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitabh-soni-devops)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amitabhdevops.hashnode.dev/)
+
+---
