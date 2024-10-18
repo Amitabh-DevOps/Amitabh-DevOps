@@ -18,9 +18,7 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 
 ## 🛠️ DevOps Skills
 
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <span style="margin-right: 20px;"></span>[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
 <span style="margin-right: 20px;"></span>
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) 
 <span style="margin-right: 20px;"></span>
