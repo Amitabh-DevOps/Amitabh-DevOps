@@ -11,8 +11,6 @@ I’m immersing myself in the world of **DevOps**, gaining hands-on experience w
 ## 🤝 Collaboration
 I'm excited to collaborate on projects that bring together **Development and Operations**. If you’re working on something in these areas or have a project where my skills could be useful, feel free to reach out!
 
-## 📫 Contact Me
-The best way to connect with me is through [LinkedIn](https://www.linkedin.com/in/amitabh-soni). I’m always open to networking, learning from others, and exploring new opportunities.
 
 ## 😄 Pronouns
 You can call me **Amitabh**.
@@ -20,30 +18,36 @@ You can call me **Amitabh**.
 ## ⚡ Fun Fact
 I’m always on the lookout for fun facts! What excites me most is the journey of learning and discovery each day brings.
 
-## 💻 Skills
-Here are some of the skills I am currently working on:
+# DevOps Skills
 
-| Skills | Logos |
-| ------ | ----- |
-| Terraform | ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg) |
-| Ansible | ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg) |
-| Jenkins | ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.svg) |
-| Docker | ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg) |
-| AWS | ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png) |
-| Linux | ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) |
-| Kubernetes | ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) |
-| Git | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) |
-| GitHub | ![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png) |
-| HTML | ![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) |
-| CSS | ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) |
-| JavaScript | ![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png) |
+## 🚀 Skills
+
+| Category        | Tools/Technologies                                                                                                                                                          |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **OS**          | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                           |
+| **Cloud**       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)                                                                          |
+| **Automation**  | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)                                                                      |
+| **IaC**         | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)                                                               |
+| **CI/CD**       | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)                                                                     |
+| **Containers**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                         |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                              |
+| **Repository**  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                         |
+| **Frontend**    | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+---
+
+## 📫 Connect with me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourusername)
+
+
 
 ## Projects
 - Project 1
 - Project 2
 - Project 3
 
----
 
-*Feel free to explore my repositories and projects. I’m open to feedback and collaborations!*
 
