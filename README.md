@@ -19,17 +19,28 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 ## 🛠️ DevOps Skills
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
+<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) -->
 
 ---
 
