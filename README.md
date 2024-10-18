@@ -23,17 +23,27 @@ I’m always on the lookout for fun facts! What excites me most is the journey o
 ## 💻 Skills
 Here are some of the skills I am currently working on:
 
-<div class="skills">
-    <div> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50"> Terraform</div>
-    <div> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50"> Ansible</div>
-    <div> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="50"> Jenkins</div>
-    <div> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50"> Docker</div>
-    <div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="50"> AWS</div>
-    <div> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50"> Linux</div>
-    <div> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50"> Kubernetes</div>
-    <div> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"> Git</div>
-    <div> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50"> GitHub</div>
-    <div> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="50"> HTML</div>
-    <div> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50"> CSS</div>
-    <div> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50"> JavaScript</div>
-</div>
+| Skills | Logos |
+| ------ | ----- |
+| Terraform | ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg) |
+| Ansible | ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg) |
+| Jenkins | ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.svg) |
+| Docker | ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg) |
+| AWS | ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png) |
+| Linux | ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) |
+| Kubernetes | ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) |
+| Git | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) |
+| GitHub | ![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png) |
+| HTML | ![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) |
+| CSS | ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) |
+| JavaScript | ![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png) |
+
+## Projects
+- Project 1
+- Project 2
+- Project 3
+
+---
+
+*Feel free to explore my repositories and projects. I’m open to feedback and collaborations!*
+
