@@ -18,31 +18,19 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 
 ## 🛠️ DevOps Skills
 
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <span style="margin-right: 20px;"></span>[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) -->
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
-<span style="margin-right: 20px;"></span>
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp; -->
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
-
-
-
-<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) -->
 
 ---
 
