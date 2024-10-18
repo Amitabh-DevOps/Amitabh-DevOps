@@ -19,17 +19,17 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 ## 🛠️ DevOps Skills
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=40)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&logoWidth=40)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&logoWidth=40)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=40)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
-[![Html](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![Css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Javascript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 ---
 
