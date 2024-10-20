@@ -24,6 +24,7 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
 <!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp; -->
