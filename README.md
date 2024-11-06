@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a **DevOps Enthusiast** committed to mastering the world of Development and Operations through continuous learning and hands-on experience.
 
----
+-
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 - 😄 **Pronouns**: You can call me **Amitabh**.
 - ⚡ **Fun Fact**: Every day is a new opportunity to learn and discover exciting aspects of technology!
 
----
+-
 
 ## 🛠️ DevOps Skills
 
@@ -33,7 +33,7 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 
----
+-
 
 ## 🌟 Featured Projects
 
@@ -43,7 +43,7 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 
 Check out more in my repositories!
 
----
+-
 
 ## 📫 Let's Connect!
 
@@ -51,4 +51,4 @@ Check out more in my repositories!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitabh-soni-devops)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amitabhdevops.hashnode.dev/)
 
----
+-
