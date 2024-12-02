@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **DevOps Enthusiast** committed to masterin
 
 As a DevOps enthusiast, I am focused on learning the DevOps culture and understanding its principles. I’m actively exploring automation, cloud services, and CI/CD pipelines to streamline workflows and enhance efficiency. My goal is to apply these skills to real-world projects while continuously expanding my expertise in the ever-evolving DevOps field.
 
-- 🌱 **Currently Learning**: Cloud platforms, containerization, CI/CD pipelines, and infrastructure as code.
+- 🌱 **Currently Learning**: Cloud platforms, containerization, CI/CD pipelines, and infrastructure as code container orchastration(k8s).
 - 🤝 **Looking for Collaboration**: I'm always excited to contribute to projects that integrate **Development** and **Operations**. If you're working on something in this space, feel free to reach out!
 
 - 😄 **Pronouns**: You can call me **Amitabh**.
