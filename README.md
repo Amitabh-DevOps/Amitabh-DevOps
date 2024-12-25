@@ -22,15 +22,14 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) &nbsp;
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;
 [![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) &nbsp;&nbsp;
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) &nbsp;&nbsp;
-[![ArgoCd](https://skillicons.dev/icons?i=argocd)](https://skillicons.dev) &nbsp;&nbsp;
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
