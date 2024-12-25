@@ -27,7 +27,9 @@ As a DevOps enthusiast, I am focused on learning the DevOps culture and understa
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
-<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp; -->
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) &nbsp;&nbsp;
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) &nbsp;&nbsp;
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
