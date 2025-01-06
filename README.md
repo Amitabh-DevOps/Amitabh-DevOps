@@ -50,7 +50,7 @@ Check out more in my repositories!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge)](https://amitabh.engineer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitabh-soni-devops)
-[![Twitter](https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=Twitter&logoColor=black)](https://x.com/Amitabh_DevOps)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Amitabh_DevOps)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amitabhdevops.hashnode.dev/)
 
 ---
