@@ -56,7 +56,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🚀 CI/CD & DevOps Tools
+### 🚀 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -69,7 +69,6 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📚 Databases & Messaging
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
