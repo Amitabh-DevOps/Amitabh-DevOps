@@ -1,18 +1,20 @@
-# 👋 Hi, I’m Amitabh Soni 
+# 👨💻 DevOps Engineer in the Making | Cloud & Automation Aficionado
 
-Welcome to my GitHub profile! I am a **DevOps Enthusiast** committed to mastering the world of Development and Operations through continuous learning and hands-on experience.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%A6" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 About Me 
+## 🌟 About Me
 
-As a DevOps enthusiast, I am focused on learning the DevOps culture and understanding its principles. I’m actively exploring automation, cloud services, and CI/CD pipelines to streamline workflows and enhance efficiency. My goal is to apply these skills to real-world projects while continuously expanding my expertise in the ever-evolving DevOps field.
+I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between development dreams and operational reality. My journey revolves around creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
 
-- 🌱 **Currently Learning**: Cloud platforms, containerization, CI/CD pipelines, and infrastructure as code container orchastration(k8s).
-- 🤝 **Looking for Collaboration**: I'm always excited to contribute to projects that integrate **Development** and **Operations**. If you're working on something in this space, feel free to reach out!
-
-- 😄 **Pronouns**: You can call me **Amitabh**.
-- ⚡ **Fun Fact**: Every day is a new opportunity to learn and discover exciting aspects of technology!
+🚀 **Current Focus**:
+- ☁️ Mastering cloud-native technologies on AWS & GCP
+- 🐳 Container orchestration with Kubernetes in production environments
+- ⚡ Automating everything with Terraform & Ansible
+- 📈 Implementing observability with Prometheus+Grafana stacks
 
 ---
 
