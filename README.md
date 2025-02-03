@@ -89,7 +89,10 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)
-**Secure banking application pipeline** implementing SAST/DAST scanning, infrastructure hardening, and automated compliance checks. Features:
+
+**Secure banking application pipeline** implementing SAST/DAST scanning, infrastructure hardening, and automated compliance checks. 
+
+Features:
 - Shift-left security integration in CI/CD
 - Automated vulnerability scanning with OWASP tools
 - Infrastructure security baseline with CIS benchmarks
@@ -98,7 +101,10 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)
-**Environment-agnostic infrastructure provisioning** system supporting dev/stage/prod workflows. Key features:
+
+**Environment-agnostic infrastructure provisioning** system supporting dev/stage/prod workflows. 
+
+Key features:
 - Modular Terraform configurations for different environments
 - Automated environment parity checks
 - Cost-optimized resource tagging strategy
@@ -108,7 +114,9 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 [![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/codepipeline/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
-**Serverless CI/CD implementation** demonstrating AWS-native DevOps capabilities:
+
+**Serverless CI/CD implementation** demonstrating AWS-native DevOps capabilities:|
+
 - End-to-end pipeline from code commit to production deployment
 - Infrastructure-as-code using CloudFormation
 - Automated blue/green deployment strategy
