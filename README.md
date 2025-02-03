@@ -115,7 +115,7 @@ Key features:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
 
-**Serverless CI/CD implementation** demonstrating AWS-native DevOps capabilities:|
+**Serverless CI/CD implementation** demonstrating AWS-native DevOps capabilities:
 
 - End-to-end pipeline from code commit to production deployment
 - Infrastructure-as-code using CloudFormation
