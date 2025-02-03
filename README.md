@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between development dreams and operational reality. My journey revolves around creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
+I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between development dreams and operational reality. My journey involves creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
 
 🚀 **Current Focus**:
 - ☁️ Mastering cloud-native technologies on AWS & GCP
@@ -74,7 +74,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 📚 Databases & Messaging
+### 📚 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Monitoring & Logging
