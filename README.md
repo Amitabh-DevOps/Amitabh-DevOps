@@ -84,6 +84,24 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitabh-devops&theme=chartreuse-dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitabh-devops&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+
+## 💡 Favorite Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
+
+## 🔝 Top Contributed Repo
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=amitabh-devops&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 🏗️ Featured Projects
 
 ### 1. [DevSecOps Mega Project: SpringBoot BankApp](https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project)
