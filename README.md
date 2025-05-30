@@ -119,7 +119,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 
 ---
 
-### 2. [DevSecOps Google Gemini Clone on AWS EKS](https://github.com/Amitabh-DevOps/google-gemini-clone)
+### 2. [DevSecOps Google Gemini Clone on AWS EKS](https://github.com/Amitabh-DevOps/dev-gemini-clone)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)  
 [![Argo CD](https://img.shields.io/badge/ArgoCD-00457C?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)  
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9CAE?style=flat&logo=sonarqube&logoColor=white)](https://sonarqube.org)
