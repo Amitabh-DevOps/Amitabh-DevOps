@@ -115,9 +115,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ### 2. [DevSecOps Google Gemini Clone on AWS EKS](https://github.com/Amitabh-DevOps/dev-gemini-clone)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)  
-[![Argo CD](https://img.shields.io/badge/ArgoCD-00457C?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)  
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9CAE?style=flat&logo=sonarqube&logoColor=white)](https://sonarqube.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)  [![Argo CD](https://img.shields.io/badge/ArgoCD-00457C?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)  [![SonarQube](https://img.shields.io/badge/SonarQube-4E9CAE?style=flat&logo=sonarqube&logoColor=white)](https://sonarqube.org)
 
 **GitOps-driven Gemini-style search UI** built on Next.js and deployed via AWS EKS.
 
@@ -130,9 +128,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ### 3. [Multi-Environment Infrastructure as Code (IaC)](https://github.com/Amitabh-DevOps/multi-env-lac-project)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  
-[![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  [![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
 
 **Scalable, environment-aware provisioning** framework for dev/stage/prod.
 
@@ -145,9 +141,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ### 4. [AWS CodePipeline-Driven Deployment for Node.js ToDo App](https://github.com/Amitabh-DevOps/Project-03-Jenkins-CI-CD-Project-Todo-node-app/tree/feat/awscicd)
-[![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/codepipeline/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)  
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation)
+[![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/codepipeline/)  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)  [![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation)
 
 **Serverless CI/CD pipeline** showcasing AWS native tooling for a ToDo app.
 
@@ -160,9 +154,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ### 5. [Continuous Deployment & Infra Automation for Online Shop](https://github.com/Amitabh-DevOps/online_shop)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)  
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 
 **Fully automated ecommerce deployment** using GitHub-centric workflows.
 
