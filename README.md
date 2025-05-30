@@ -102,12 +102,7 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ## 🏗️ Featured Projects
 
 ### 1. [DevSecOps Banking Application on AWS EKS](https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project)
-[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
 
 **Secure, multi-tier banking application** on AWS EKS, delivering enterprise-grade reliability and compliance.
 
