@@ -75,8 +75,9 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 📚 Databases
+<!--  ### 📚 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ -->
 
 ### 📊 Monitoring & Logging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -88,6 +89,8 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
