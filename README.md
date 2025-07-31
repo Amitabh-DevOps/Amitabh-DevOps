@@ -85,9 +85,9 @@ I'm Amitabh Soni, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitabh-devops&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
