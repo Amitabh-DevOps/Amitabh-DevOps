@@ -14,21 +14,11 @@ AWS Community Builder (Containers) · Technical Content Creator
 
 ## About Me
 
-I'm Amitabh Soni, a Cloud & DevOps Engineer focused on AWS, containers, infrastructure automation, and CI/CD.
+I'm a Cloud & DevOps Engineer focused on building and automating infrastructure on AWS.
 
-I build hands-on cloud and DevOps projects using technologies such as AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, and Prometheus.
+My hands-on work includes containerization, Kubernetes, Infrastructure as Code, CI/CD, GitOps, monitoring, and DevSecOps using tools such as AWS, Docker, Terraform, Jenkins, GitHub Actions, and Prometheus.
 
-I'm also an AWS Community Builder in the Containers category and a technical content creator, sharing practical tutorials and projects around AWS, Docker, Kubernetes, and DevOps.
-
-**Areas I work with:**
-
-- AWS Cloud & Cloud Infrastructure
-- Docker & Kubernetes
-- Terraform & Infrastructure as Code
-- CI/CD & GitOps
-- Infrastructure Automation
-- Monitoring & Observability
-- DevSecOps
+I'm also an AWS Community Builder in the Containers category and a technical content creator, sharing practical tutorials and hands-on projects around AWS, containers, and DevOps.
 
 ---
 
