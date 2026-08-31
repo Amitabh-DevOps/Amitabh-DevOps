@@ -133,23 +133,6 @@ An AWS-native CI/CD implementation for automating application delivery.
 
 ---
 
-## 5. Automated Deployment for an Online Shop
-
-**GitHub Actions · Terraform · Docker**
-
-A project demonstrating automated application deployment and infrastructure provisioning.
-
-**What I implemented:**
-
-- CI/CD automation using GitHub Actions
-- Infrastructure provisioning with Terraform
-- Containerized application deployment with Docker
-- Repeatable deployment workflows
-
-**[View Project →](https://github.com/Amitabh-DevOps/online_shop)**
-
----
-
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
