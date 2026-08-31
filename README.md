@@ -133,19 +133,9 @@ A project demonstrating automated application deployment and infrastructure prov
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+## GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitabh-devops&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -154,10 +144,10 @@ A project demonstrating automated application deployment and infrastructure prov
 I'm open to opportunities and conversations around Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
 
 <div align="center">
-  <a href="https://amitabh.engineer/">
+  <a href="https://amitabh.cloud/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/amitabh-soni-devops">
+  <a href="https://linkedin.com/in/amitabh-devops">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Amitabh_DevOps">
