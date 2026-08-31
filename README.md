@@ -1,4 +1,4 @@
-# 👨‍💻 Amitabh Soni | Cloud & DevOps Engineer
+# Amitabh Soni | Cloud & DevOps Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=500&lines=Building+Cloud-Native+Infrastructure;AWS+%7C+Containers+%7C+Automation+%7C+DevOps;AWS+Community+Builder+%7C+Containers" alt="Typing SVG" />
