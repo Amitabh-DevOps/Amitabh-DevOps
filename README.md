@@ -32,7 +32,7 @@ I'm also an AWS Community Builder in the Containers category and a technical con
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -57,7 +57,7 @@ I'm also an AWS Community Builder in the Containers category and a technical con
 
 ---
 
-# 🏗️ Featured Projects
+# Featured Projects
 
 ## 1. DevSecOps Banking Application on AWS EKS
 
