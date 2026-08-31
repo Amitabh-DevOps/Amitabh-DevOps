@@ -139,7 +139,7 @@ A project demonstrating automated application deployment and infrastructure prov
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm open to opportunities and conversations around Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
 
@@ -160,4 +160,4 @@ I'm open to opportunities and conversations around Cloud Engineering, DevOps, Pl
 
 ---
 
-> Building, automating, and learning in public.
+> "In DevOps, we don't just deploy code - we deploy confidence." 🚀
