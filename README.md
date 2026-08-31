@@ -120,6 +120,20 @@ A project demonstrating automated application deployment and infrastructure prov
 
 ---
 
+## Certifications & Learning
+
+<p align="left">
+
+<a href="https://api.badgr.io/public/assertions/GIFReb9fQBu3ltigTrrfag">
+  <img src="https://img.shields.io/badge/Postman-API%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Student Expert"/>
+</a>
+
+<img src="https://img.shields.io/badge/AWS%20SAA-Preparing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate - Preparing"/>
+
+</p>
+
+---
+
 ## Let's Connect
 
 I'm open to opportunities in Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
