@@ -128,7 +128,7 @@ A project demonstrating automated application deployment and infrastructure prov
   <img src="https://img.shields.io/badge/Postman-API%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Student Expert"/>
 </a>
 
-<img src="https://img.shields.io/badge/AWS%20SAA--C03-PREPARING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate SAA-C03 - Preparing"/>
+<img src="https://img.shields.io/badge/AWS%20SAA--C03-IN%20PREPARATION-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate SAA-C03 - Currently Preparing"/>
 
 </p>
 
@@ -141,7 +141,7 @@ I'm open to opportunities in Cloud Engineering, DevOps, Platform Engineering, an
 <div align="center">
   
   <a href="https://amitabh.cloud/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
   
   <a href="https://linkedin.com/in/amitabh-devops">
