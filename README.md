@@ -28,7 +28,7 @@ I'm also an AWS Community Builder in the Containers category and a technical con
 
 **AWS EKS · Docker · Jenkins · Terraform · SonarQube · OWASP ZAP · Trivy · Prometheus · Grafana**
 
-An end-to-end DevSecOps implementation demonstrating infrastructure provisioning, CI/CD automation, security scanning, Kubernetes deployment, and observability on AWS.
+An end-to-end DevSecOps implementation for a multi-tier banking application, covering infrastructure provisioning, CI/CD automation, security scanning, Kubernetes deployment, and observability on AWS.
 
 **What I implemented:**
 
