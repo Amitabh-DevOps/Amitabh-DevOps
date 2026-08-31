@@ -128,7 +128,7 @@ A project demonstrating automated application deployment and infrastructure prov
   <img src="https://img.shields.io/badge/Postman-API%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Student Expert"/>
 </a>
 
-<img src="https://img.shields.io/badge/AWS%20SAA-Preparing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate - Preparing"/>
+<img src="https://img.shields.io/badge/AWS%20SAA--C03-PREPARING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate SAA-C03 - Preparing"/>
 
 </p>
 
