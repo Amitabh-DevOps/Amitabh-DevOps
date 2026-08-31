@@ -61,7 +61,7 @@ A reusable Infrastructure as Code project designed to manage infrastructure cons
 
 ---
 
-## 3. GitOps-Based Application Deployment on AWS EKS
+## 3. GitOps-Driven Application Deployment on AWS EKS
 
 **AWS EKS · Docker · Jenkins · Terraform · Argo CD · Prometheus · Grafana**
 
@@ -117,12 +117,6 @@ A project demonstrating automated application deployment and infrastructure prov
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </p>
-
----
-
-## GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
 
 ---
 
