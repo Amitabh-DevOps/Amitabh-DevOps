@@ -116,20 +116,20 @@ A reusable Infrastructure as Code project for managing infrastructure across dev
 
 ---
 
-## 4. AWS CI/CD Pipeline for a Node.js Application
+## 4. Automated Deployment for an Online Shop
 
-**AWS CodePipeline · CloudFormation · Node.js**
+**GitHub Actions · Terraform · Docker**
 
-An AWS-native CI/CD implementation for automating application delivery.
+A project demonstrating automated application deployment and infrastructure provisioning.
 
 **What I implemented:**
 
-- Automated application delivery with AWS CodePipeline
-- Infrastructure provisioning with CloudFormation
-- Automated build and deployment workflows
-- AWS-native DevOps practices
+- CI/CD automation using GitHub Actions
+- Infrastructure provisioning with Terraform
+- Containerized application deployment with Docker
+- Repeatable deployment workflows
 
-**[View Project →](https://github.com/Amitabh-DevOps/Project-03-Jenkins-CI-CD-Project-Todo-node-app/tree/feat/awscicd)**
+**[View Project →](https://github.com/Amitabh-DevOps/online_shop)**
 
 ---
 
