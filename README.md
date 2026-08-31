@@ -131,6 +131,9 @@ I'm open to opportunities in Cloud Engineering, DevOps, Platform Engineering, an
   <a href="https://linkedin.com/in/amitabh-devops">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.youtube.com/@SoniAmitabh">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
   <a href="https://x.com/Amitabh_DevOps">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
