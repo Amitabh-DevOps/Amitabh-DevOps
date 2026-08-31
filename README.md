@@ -127,7 +127,7 @@ A project demonstrating automated application deployment and infrastructure prov
 
 ## Let's Connect
 
-I'm open to opportunities and conversations around Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
+I'm open to opportunities in Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
 
 <div align="center">
   <a href="https://amitabh.cloud/">
