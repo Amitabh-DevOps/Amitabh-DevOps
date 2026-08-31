@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=500&lines=Building+Cloud-Native+Infrastructure;AWS+%7C+Containers+%7C+Automation+%7C+DevOps;Learning%2C+Building%2C+and+Sharing+in+Public" alt="Typing SVG" />
 </div>
 
-<div align="center">
-
 AWS Community Builder (Containers) · Technical Content Creator
-
-</div>
 
 ---
 
