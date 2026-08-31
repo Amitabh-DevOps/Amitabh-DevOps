@@ -6,7 +6,7 @@
 
 <div align="center">
 
-AWS Community Builder (Containers) · Cloud & DevOps Engineer · Technical Content Creator
+AWS Community Builder (Containers) · Technical Content Creator
 
 </div>
 
