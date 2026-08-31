@@ -22,9 +22,9 @@ I'm also an AWS Community Builder in the Containers category and a technical con
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## 1. DevSecOps Banking Application on AWS EKS
+### 1. DevSecOps Banking Application on AWS EKS
 
 **AWS EKS · Docker · Jenkins · Terraform · SonarQube · OWASP ZAP · Trivy · Prometheus · Grafana**
 
@@ -43,7 +43,7 @@ An end-to-end DevSecOps implementation for a multi-tier banking application, cov
 
 ---
 
-## 2. Multi-Environment Infrastructure as Code
+### 2. Multi-Environment Infrastructure as Code
 
 **Terraform · Ansible · Terratest**
 
@@ -61,7 +61,7 @@ A reusable Infrastructure as Code project designed to manage infrastructure cons
 
 ---
 
-## 3. GitOps-Driven Application Deployment on AWS EKS
+### 3. GitOps-Driven Application Deployment on AWS EKS
 
 **AWS EKS · Docker · Jenkins · Terraform · Argo CD · Prometheus · Grafana**
 
@@ -81,7 +81,7 @@ A cloud-native deployment project focused on GitOps workflows and continuous del
 
 ---
 
-## 4. Automated Deployment for an Online Shop
+### 4. Automated Deployment for an Online Shop
 
 **GitHub Actions · Terraform · Docker**
 
