@@ -24,56 +24,56 @@ I'm also an AWS Community Builder in the Containers category and a technical con
 
 **AWS EKS · Docker · Jenkins · Terraform · SonarQube · OWASP ZAP · Trivy · Prometheus · Grafana**
 
-An end-to-end DevSecOps project demonstrating how to build, secure, deploy, and monitor a containerized application on AWS EKS.
+An end-to-end DevSecOps implementation demonstrating infrastructure provisioning, CI/CD automation, security scanning, Kubernetes deployment, and observability on AWS.
 
 **What I implemented:**
 
 - Containerized application workloads with Docker
-- Provisioned infrastructure using Terraform
-- Built CI/CD pipelines with Jenkins
+- Provisioned AWS infrastructure using Terraform
+- Built CI/CD pipelines using Jenkins
 - Integrated SonarQube, OWASP ZAP, and Trivy security scans
-- Deployed workloads to Kubernetes on AWS EKS
+- Deployed and managed workloads on Amazon EKS
 - Implemented monitoring with Prometheus and Grafana
 
 **[View Project →](https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project)**
 
 ---
 
-## 2. DevSecOps Gemini Clone on AWS EKS
-
-**AWS EKS · Docker · Jenkins · Terraform · Argo CD · Prometheus · Grafana**
-
-A cloud-native project demonstrating CI/CD, GitOps, security automation, Kubernetes deployment, and observability.
-
-**What I implemented:**
-
-- Automated CI/CD workflows with Jenkins
-- Built and managed Docker images
-- Provisioned infrastructure using Terraform
-- Deployed workloads to AWS EKS
-- Implemented GitOps workflows with Argo CD
-- Integrated security scanning into the pipeline
-- Added monitoring with Prometheus and Grafana
-
-**[View Project →](https://github.com/Amitabh-DevOps/dev-gemini-clone)**
-
----
-
-## 3. Multi-Environment Infrastructure as Code
+## 2. Multi-Environment Infrastructure as Code
 
 **Terraform · Ansible · Terratest**
 
-A reusable Infrastructure as Code project for managing infrastructure across development, staging, and production environments.
+A reusable Infrastructure as Code project designed to manage infrastructure consistently across development, staging, and production environments.
 
 **What I implemented:**
 
-- Environment-specific infrastructure configuration
-- Modular and reusable Terraform architecture
-- Infrastructure automation with Ansible
-- Infrastructure testing with Terratest
-- Reusable Infrastructure as Code patterns
+- Designed environment-specific infrastructure configurations
+- Built modular and reusable Terraform components
+- Automated infrastructure configuration using Ansible
+- Implemented infrastructure testing with Terratest
+- Applied reusable patterns for managing multiple environments
 
 **[View Project →](https://github.com/Amitabh-DevOps/multi-env-lac-project)**
+
+---
+
+## 3. GitOps-Based Application Deployment on AWS EKS
+
+**AWS EKS · Docker · Jenkins · Terraform · Argo CD · Prometheus · Grafana**
+
+A cloud-native deployment project focused on GitOps workflows and continuous delivery using Argo CD on AWS EKS.
+
+**What I implemented:**
+
+- Provisioned AWS infrastructure using Terraform
+- Built CI workflows using Jenkins
+- Containerized the application using Docker
+- Deployed workloads to Amazon EKS
+- Implemented GitOps-based continuous delivery with Argo CD
+- Integrated security scanning into the CI pipeline
+- Added monitoring with Prometheus and Grafana
+
+**[View Project →](https://github.com/Amitabh-DevOps/dev-gemini-clone)**
 
 ---
 
@@ -81,14 +81,14 @@ A reusable Infrastructure as Code project for managing infrastructure across dev
 
 **GitHub Actions · Terraform · Docker**
 
-A project demonstrating automated application deployment and infrastructure provisioning.
+A project demonstrating automated application deployment and infrastructure provisioning using GitHub-native CI/CD workflows.
 
 **What I implemented:**
 
-- CI/CD automation using GitHub Actions
-- Infrastructure provisioning with Terraform
-- Containerized application deployment with Docker
-- Repeatable deployment workflows
+- Built CI/CD workflows using GitHub Actions
+- Provisioned infrastructure with Terraform
+- Containerized the application using Docker
+- Automated repeatable application deployments
 
 **[View Project →](https://github.com/Amitabh-DevOps/online_shop)**
 
